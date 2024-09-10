@@ -22,6 +22,7 @@ ROOT\2024-01\01\JHID12345.zip
 
 ## Requirements
 * Directory structure: ROOT\YYYY-MM\DD\*
+    * Logic in Processing section could be modified to adjust for your particular use-case
 * 7-Zip - $sevenZipExePath must be pointed here
 
 ## Optional
